@@ -1,0 +1,21 @@
+# Visual Studio Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Temporary
+temp/
+tmp/
+
+# Build
+bin/
+obj/
